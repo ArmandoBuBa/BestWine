@@ -1,0 +1,116 @@
+ .u-section-1 {
+  background-image: url("images/vinologin.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 818px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  text-shadow: 2px 0 8px rgba(128,128,128,1);
+  margin: 174px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  background-image: none;
+  height: 222px;
+  width: 570px;
+  margin: 43px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 0.875rem;
+  background-image: none;
+  text-decoration: underline !important;
+  margin: -22px 401px 0 549px;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  font-size: 0.875rem;
+  text-decoration: underline !important;
+  margin: -22px auto 60px 470px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 538px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 190px;
+    margin-right: 301px;
+    margin-left: 449px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 389px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-right: 191px;
+    margin-left: 339px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 278px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 101px;
+    margin-left: 249px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 189px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 525px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 88px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+    margin-top: 129px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -23px;
+    margin-right: 1px;
+    margin-left: 149px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 82px;
+  }
+}
